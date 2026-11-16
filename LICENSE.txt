@@ -1,0 +1,32 @@
+K!SSY T4LK 96 — v0.1 — free, non-commercial
+
+Copyright (c) 2026 KISSYHEEPS (plugin, interface and design).
+
+You may install and use K!SSY T4LK 96 free of charge. Sounds you make with it
+are yours to use in your music. Do not sell this plugin, do not put it behind a
+paywall, and do not re-upload it for money.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE USE OF THE SOFTWARE.
+
+Unofficial fan project
+- K!SSY T4LK 96 is an unofficial fan tribute to Microsoft Talk It! (1996),
+  which never had a plugin version. It is not affiliated with, endorsed or
+  sponsored by Microsoft or SoftVoice.
+- Microsoft and Talk It! are trademarks of their owners.
+
+Speech engine
+- An unofficial reconstruction of the SoftVoice speech engine used by
+  Microsoft Talk It! (1996), including speech data taken from the original.
+  All rights to SoftVoice and its data remain with their owners.
+- Speech engine code: TalkIt_OSS by glebasos.
+
+Rights holders
+- If you hold rights to any part of this and want it removed, message
+  Instagram or Telegram @kissyheeps and it will be taken down.
+
+Third-party components
+- Built with JUCE (juce.com), used under the JUCE licence.
+- VST is a registered trademark of Steinberg Media Technologies GmbH.
+- Fonts: Nunito, UnifrakturMaguntia — SIL Open Font License 1.1.
